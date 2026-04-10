@@ -1,18 +1,59 @@
-# React + Vite
+# 🧮 React Calculator (Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive calculator built using **React + Vite** with dark mode, keyboard support, history, and a glassmorphism UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+➕ Basic arithmetic operations (+ − × ÷)  
+⌫ Backspace delete  
+🌙 Dark / Light mode toggle  
+⌨️ Keyboard support (Enter, Backspace, Esc)  
+📜 Calculation history  
+🎨 Modern glassmorphism UI  
+⚡ Fast performance with Vite  
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+React • Vite • CSS3
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+
+Add screenshot here:
+
+---
+
+## 📂 Setup Instructions
+
+```bash
+git clone https://github.com/your-username/calculator.git
+cd calculator
+npm install
+npm run dev
+http://localhost:5173
+
+📁 Project Structure
+calculator/
+├── src/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+├── index.html
+├── package.json
+
+💡 Future Improvements
+Scientific calculator mode
+Save history in localStorage
+Mobile responsive UI
+Button sound effects
+
+👨‍💻 Author
+
+Your Name
+GitHub: https://github.com/your-username
+├── vite.config.js
