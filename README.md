@@ -83,20 +83,23 @@ calculator-app/
 #Screenshot
 
 <img width="334" height="542" alt="{3A283910-66F0-41A3-907A-30C30B5A6FB0}" src="https://github.com/user-attachments/assets/1a412b9d-ed83-4f98-90b4-52c17e702d32" />
+
 --
-#✨ Future Improvements
+✨ Future Improvements
 
 Add keyboard support ⌨️
 
 Add dark/light mode 🌙☀️
 
 Add history feature 📜
+
 --
 👩‍💻 Author
 
 Nair Keerthana
 
 GitHub: https://github.com/keerthucode
+
 --
 📜 License
 
