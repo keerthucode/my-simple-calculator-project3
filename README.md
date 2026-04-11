@@ -31,7 +31,6 @@ A simple and responsive calculator web application built using **React (with Vit
 ## 📂 Project Setup
 
 ### 1. Clone the repository
-```bash
 git clone https://github.com/keerthucode/calculator-app.git
 2. Navigate to project folder
 cd calculator-app
@@ -50,11 +49,15 @@ npm run build
 The production files will be generated in the dist/ folder.
 --
 #🌐 Deploy (GitHub Pages / Netlify / Vercel)
+
 GitHub Pages
+
 npm run build
+
 npm run deploy
 --
 #📁 Folder Structure
+
 calculator-app/
 │── public/
 │── src/
@@ -66,16 +69,20 @@ calculator-app/
 │── vite.config.js
 --
 #Screenshot
+
 <img width="334" height="542" alt="{3A283910-66F0-41A3-907A-30C30B5A6FB0}" src="https://github.com/user-attachments/assets/1a412b9d-ed83-4f98-90b4-52c17e702d32" />
 
 --
 #✨ Future Improvements
+
 Add keyboard support ⌨️
 Add dark/light mode 🌙☀️
 Add history feature 📜
 --
 👩‍💻 Author
+
 Nair Keerthana
+
 GitHub: https://github.com/keerthucode
 --
 📜 License
