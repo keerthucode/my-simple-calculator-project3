@@ -48,12 +48,12 @@ npm run dev
 Now open:
 
 http://localhost:5173/my-simple-calculator-project3/
---
+---
 📦 Build for Production
 npm run build
 
 The production files will be generated in the dist/ folder.
---
+---
 🌐 Deploy (GitHub Pages / Netlify / Vercel)
 
 GitHub Pages
@@ -61,7 +61,7 @@ GitHub Pages
 npm run build
 
 npm run deploy
---
+---
 📁 Folder Structure
 
 calculator-app/
@@ -84,7 +84,8 @@ calculator-app/
 
 <img width="334" height="542" alt="{3A283910-66F0-41A3-907A-30C30B5A6FB0}" src="https://github.com/user-attachments/assets/1a412b9d-ed83-4f98-90b4-52c17e702d32" />
 
---
+---
+
 ✨ Future Improvements
 
 Add keyboard support ⌨️
@@ -93,14 +94,16 @@ Add dark/light mode 🌙☀️
 
 Add history feature 📜
 
---
+---
+
 👩‍💻 Author
 
 Nair Keerthana
 
 GitHub: https://github.com/keerthucode
 
---
+---
+
 📜 License
 
 This project is free open source
