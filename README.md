@@ -1,59 +1,64 @@
-# 🧮 React Calculator (Vite)
+# 🧮 Simple Calculator (Vite + React)
 
-A modern, responsive calculator built using **React + Vite** with dark mode, keyboard support, history, and a glassmorphism UI.
+A simple and responsive calculator web application built using **React (with Vite)**. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ---
 
-## 🚀 Features
+## 🚀 Live Demo
+👉 
 
-➕ Basic arithmetic operations (+ − × ÷)  
-⌫ Backspace delete  
-🌙 Dark / Light mode toggle  
-⌨️ Keyboard support (Enter, Backspace, Esc)  
-📜 Calculation history  
-🎨 Modern glassmorphism UI  
-⚡ Fast performance with Vite  
+---
+
+## 📌 Features
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 🧹 Clear input (AC button)
+- 📱 Responsive design (mobile & desktop friendly)
+- ⚡ Fast performance using Vite
 
 ---
 
 ## 🛠️ Tech Stack
-
-React • Vite • CSS3
-
----
-
-## 📸 Preview
-
-Add screenshot here:
+- React JS
+- Vite
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
 ---
 
-## 📂 Setup Instructions
+## 📂 Project Setup
 
+### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/calculator.git
-cd calculator
-npm install
-npm run dev
-http://localhost:5173
+git clone https://github.com/your-username/calculator-app.git
 
-📁 Project Structure
-calculator/
-├── src/
-│   ├── App.jsx
-│   ├── App.css
-│   ├── main.jsx
-├── index.html
-├── package.json
+---
 
-💡 Future Improvements
-Scientific calculator mode
-Save history in localStorage
-Mobile responsive UI
-Button sound effects
+## 📌 Features
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 🧹 Clear input (AC button)
+- 📱 Responsive design (mobile & desktop friendly)
+- ⚡ Fast performance using Vite
 
-👨‍💻 Author
+---
 
-Your Name
-GitHub: https://github.com/your-username
-├── vite.config.js
+## 🛠️ Tech Stack
+- React JS
+- Vite
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+---
+
+## 📂 Project Setup
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/calculator-app.git
