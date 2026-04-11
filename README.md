@@ -33,6 +33,7 @@ A simple and responsive calculator web application built using **React (with Vit
 ### 1. Clone the repository
 
 git clone https://github.com/keerthucode/calculator-app.git
+
 2. Navigate to project folder
 
 cd calculator-app
